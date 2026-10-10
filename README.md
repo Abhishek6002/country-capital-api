@@ -15,6 +15,8 @@ Python 3.9 or a compatible version supported by the project.
 pip, Python's package installer.
 Git, to clone the repository.
 A terminal or command-line interface.
+
+
 Local Development Setup
 1. Clone the repository
 git clone <repository-url>
